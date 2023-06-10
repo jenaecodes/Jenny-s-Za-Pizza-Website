@@ -40,7 +40,7 @@ This project entails online shop for users to search various pizza options! The 
 <img src="images/a.png" alt="Pages">
 <img src="images/b.png" alt="Pages">
 
-2. In Pages > `mountains.html`:
+2. In Pages > `index.html`:
 
 
   ```html
@@ -50,7 +50,7 @@ This project entails online shop for users to search various pizza options! The 
 
   <button id="myButton">Take a Bite!</button>
   ```
-  3. In CSS Folder > `style.css`:
+  3. In scripts Folder > `app.js`:
 
   ```javascript
 
