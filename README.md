@@ -1,6 +1,11 @@
 # Food Service Website
 # Brand: Jenny's Za
 
+Logo Design:
+
+<img src="images/logo.png" alt="Logo">
+<img src="images/1.png" alt="Navbar Logo">
+
 ## About The Project
 
 This project entails online shop for users to search various pizza options! The company I created is called "Jenny's Za". My website features two pages (Home and Products Search Page).
