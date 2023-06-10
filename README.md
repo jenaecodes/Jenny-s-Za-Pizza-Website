@@ -37,8 +37,8 @@ This project entails online shop for users to search various pizza options! The 
 
 1. HTML + JavaScript to Change Image
 
-<img src="imgages/a.png" alt="Pages">
-<img src="imgages/b.png" alt="Pages">
+<img src="images/a.png" alt="Pages">
+<img src="images/b.png" alt="Pages">
 
 2. In Pages > `mountains.html`:
 
